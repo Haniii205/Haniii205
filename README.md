@@ -23,4 +23,4 @@ Ojo de artista: La estética y la experiencia de usuario son tan importantes com
 
 "Programo con la cabeza, pero diseño con el corazón".
 
-##En caso de que no los vea, buenos días, buenas tardes y buenas noches.
+- En caso de que no los vea, buenos días, buenas tardes y buenas noches.

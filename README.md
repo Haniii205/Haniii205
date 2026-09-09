@@ -21,5 +21,6 @@ Aprendizaje constante: Java, Python, HTML, CSS y sumando.
 
 Ojo de artista: La estética y la experiencia de usuario son tan importantes como la lógica.
 
-- Tech Stack en proceso:
-Java • Python • HTML5 • CSS3
+"Programo con la cabeza, pero diseño con el corazón".
+
+##En caso de que no los vea, buenos días, buenas tardes y buenas noches.

@@ -13,7 +13,7 @@ Actualmente estoy aprendiendo Java, Python, HTML y CSS, pero lo que realmente me
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haniii205&theme=calm&hide_border=true&locale=es&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
-## 🛠 Skills
+## Skills
 - Lo que me define:
 
 Creatividad aplicada: No solo escribo líneas de código, busco que cada proyecto cuente una historia visual.

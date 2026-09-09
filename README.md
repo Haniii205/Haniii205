@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img width="500" height="233" alt="rain" src="https://github.com/user-attachments/assets/0252630f-fc1d-436a-853d-62025e273cfc" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haniii205&theme=calm&hide_border=true&locale=es&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+<img width="500" height="233" alt="rain" src="https://github.com/user-attachments/assets/dd05cec3-30ec-4d88-971a-56bbad3e0085" />
 
 
 # Sistema + Diseño: Creando con propósito.
